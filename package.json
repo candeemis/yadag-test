@@ -1,7 +1,7 @@
 {
   "name": "yadag-test",
-  "description": "Yet another dynamic angular-gird",
-  "version": "0.6.0",
+  "description": "The demo application to test Yadag package.",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,7 +10,17 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "license": "MIT",
+  "private": false,
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nadeemjamali/yadag-test"
+  },
+  "author": {
+    "name": "Nadeem Jamali",
+    "email": "nadeemjamali337@gmail.com"
+  },
   "dependencies": {
     "@angular/animations": "^6.0.3",
     "@angular/common": "^6.0.3",
